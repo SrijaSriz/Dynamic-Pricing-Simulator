@@ -15,6 +15,8 @@ To build a rule-based Dynamic Pricing Simulator that adjusts ride prices dynamic
 
 ---
 
+<img width="1331" height="596" alt="image" src="https://github.com/user-attachments/assets/92e94054-b841-43e3-93bc-c1e282d12a0f" />
+
 ## 📊 Dataset Features
 
 | Column Name               | Description |
